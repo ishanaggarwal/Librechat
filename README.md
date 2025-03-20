@@ -6,7 +6,7 @@
     <a href="https://librechat.ai">LibreChat</a>
   </h1>
 </p>
-
+#welcome to my app
 <p align="center">
   <a href="https://discord.librechat.ai"> 
     <img
